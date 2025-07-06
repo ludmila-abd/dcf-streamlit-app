@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.xlsx
+*.pdf
+.env
+*.DS_Store
